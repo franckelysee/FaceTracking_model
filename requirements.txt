@@ -1,0 +1,11 @@
+pytube
+numpy
+scipy
+matplotlib
+scikit-learn
+pandas
+tqdm
+pytest
+pytest-cov
+pytest-mock
+scikit-image
